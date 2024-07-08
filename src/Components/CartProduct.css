@@ -1,0 +1,53 @@
+.productImg{
+    width: 200px;
+    height: 210px;
+}
+
+.small{
+    padding: 3px 7px;
+    border: 1px solid #DBE1E7;
+    border-radius: 20px;
+    font-size: 12px;
+}
+.medium{
+    padding: 3px 7px;
+    border: 1px solid #DBE1E7;
+    border-radius: 20px;
+    font-size: 12px;
+}
+.large{
+    padding: 3px 7px;
+    border: 1px solid #DBE1E7;
+    border-radius: 20px;
+    font-size: 12px;
+}
+.xlarge{
+    padding: 3px 7px;
+    border: 1px solid #DBE1E7;
+    border-radius: 20px;
+    font-size: 12px;
+}
+
+.deleteicon{
+    margin-left: 100px;
+}
+
+.grey{
+    color: #EDEDED;
+}
+.black{
+    color: #0D0D0D;
+}
+.blue{
+    color: #1477DB;
+}
+.green{
+    color: #0C6F10;
+}
+
+.checkbtn{
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+    width: 100%; display: block;
+}

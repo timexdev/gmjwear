@@ -1,0 +1,31 @@
+.checkbtn{
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+    width: 100%; display: block;
+}
+
+.mastercrd{
+    position: absolute;
+    margin-left: -85px;
+    margin-top: 15px;
+}
+.a1{
+    color: #5A5A5A;
+    margin-left: 250px;
+}
+.a2{
+    color: #5A5A5A;
+    margin-left: 290px;
+}
+p{
+    font-size: 12px;
+}
+input{
+    margin-top: 5px;
+}
+label{
+    font-weight: 700;
+    margin-right: 20px;
+    font-size: 12px;
+}

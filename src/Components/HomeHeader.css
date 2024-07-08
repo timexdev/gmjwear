@@ -1,0 +1,12 @@
+button{
+    /* width: Hug (84px)px;
+height: Hug (44px)px; */
+padding: 10px 20px 10px 20px;
+gap: 10px;
+border-radius: 20px ;
+border: 1px solid #5A5A5A;
+opacity: 0px;
+color: #5A5A5A;
+background-color: white;
+margin-right: 30px;
+}
